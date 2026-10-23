@@ -2,11 +2,11 @@ Hi, I'm Priyanka 👋
 Computer Science Engineering Undergraduate | AI/ML | Full-Stack Development
 I'm a Computer Science Engineering undergraduate at Koneru Lakshmaiah Education Foundation (KL University), graduating in 2027, with a strong foundation in software engineering, data structures, and artificial intelligence.
 I enjoy building full-stack applications, exploring AI/ML, and solving technical problems through practical projects and research.
-•	🔭 Currently focused on: Software development, AI/ML, and problem-solving
-•	💼 Experience: AI Research Analyst Intern at 4sight AI LLC
-•	🌱 Learning: Advanced DSA, backend engineering, and intelligent systems
-•	🎓 Education: B.Tech. CSE | CGPA: 9.0/10
-•	🤝 Leadership: Director of Strategic Planning & Secretary at KL-VEDA
+•	 Currently focused on: Software development, AI/ML, and problem-solving
+•	 Experience: AI Research Analyst Intern at 4sight AI LLC
+•	 Learning: Advanced DSA, backend engineering, and intelligent systems
+•	Education: B.Tech. CSE | CGPA: 9.0/10
+•	Leadership: Director of Strategic Planning & Secretary at KL-VEDA
 🛠️ Technical Skills
 Languages
 Java C++ Python JavaScript SQL PL/SQL
